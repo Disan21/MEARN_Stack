@@ -1,0 +1,28 @@
+.row{
+    width: 500px;
+    height: 300px;
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* justify content for equal spacing btw parent div */
+}
+.col{
+    width: 100px;
+    height: 200px;
+    background-color: darkblue;
+    border: solid 2px black;
+}
+.col1{
+    background-color: brown;
+}
+.col2{
+    background-color: cyan;
+
+}
+.col3{
+    background-color: darkolivegreen;
+}
+.col4{
+    background-color: darkred;
+}

@@ -1,0 +1,30 @@
+.section a:nth-child(1){
+    color: blueviolet;
+    
+}
+.section a:nth-child(2){
+    color: brown;
+    
+}
+.section a:nth-child(3){
+    color: yellow
+    
+    
+}
+h2{
+    color: cornflowerblue;
+}
+span{
+    color: darkgray;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    
+    border-radius: 35px;
+    padding: 20px;
+}
+.btn:hover{
+    background-color: white;
+    color: blueviolet;
+}

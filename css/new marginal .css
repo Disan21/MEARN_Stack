@@ -1,0 +1,18 @@
+div{
+    border: solid 2px black;
+    width: 300px;
+    height: 150px;
+}
+.box1{
+    background-color: blanchedalmond;
+    position: absolute;
+    top: 200px;
+    width: 500px;
+    left: 50%;
+}
+.box2{
+    background-color: blue;
+    position: absolute;
+    top: 200px;
+    
+}

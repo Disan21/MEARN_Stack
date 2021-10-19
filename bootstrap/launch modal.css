@@ -1,0 +1,20 @@
+ .btn{
+    background-color: blueviolet;
+    color: white;
+    float: left;
+    
+}
+.btn:hover{
+    background-color: white;
+    color: blueviolet;
+}
+.ttt input{
+    background: transparent;
+    border-top: grey;
+    border-left: grey;
+    border-right: grey;
+    
+}
+.modal-footer{
+    margin-right: auto;
+}

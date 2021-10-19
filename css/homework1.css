@@ -1,0 +1,47 @@
+.box1{
+    border: solid 1px yellow;
+    background-color: black;
+    width: 47%;
+    height: 500px;
+    position: relative;
+}
+.first{
+    border: solid 2px red;
+    background-color: blanchedalmond;
+    width: 20%;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.second{
+    border: solid 2px blanchedalmond;
+    background-color: blue;
+    width: 20%;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 170px;
+ 
+    
+
+}
+.thrid{
+    border: solid 2px yellow;
+    background-color: brown;
+    width: 20%;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 330px;
+
+}
+.fourth{
+    border: solid 2px cornflowerblue;
+    background-color: burlywood;
+    width: 20%;
+    height: 475px;
+    position: absolute;
+    top: 10px;
+    left: 490px;
+}

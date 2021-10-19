@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(117, 168, 180);
+}
+h1{
+    text-align: center;
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    border: solid blue 1px;
+    width: 24.7%;
+    height: 550px;
+    float: left;
+    text-align: center;
+    
+}
+div img{
+    height: 50%;
+    width: 100%;
+}
+h4{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h5{
+    color: blue
+}
+div p{
+    color: rgba(20, 1, 1, 0.877);
+    font-family: unset;
+}

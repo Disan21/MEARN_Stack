@@ -1,0 +1,28 @@
+div{
+    border: solid red;
+    width: 30%;
+    height: 500px;
+    float: left;
+    color: royalblue;
+    text-align: left;
+    background-color: darkgrey;
+
+}
+#id2{
+    background-color: seagreen;
+}
+div img{
+    height: 30%;
+    width: 100%;
+}
+#id2{
+    background-color: darkgoldenrod;
+}
+#id3 {
+    color: black;
+}
+    
+
+
+
+

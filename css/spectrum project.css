@@ -1,0 +1,122 @@
+div{
+    width: 10%;
+    height: 190px;
+    float: left;
+    
+  
+
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-left: 500px;
+
+}
+#q1{
+    background-color: gray;
+    
+    margin-left: 350px;
+}
+#q2{
+    background-color: yellow;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+#q3{
+    background-color: blue;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+#q4{
+    background-color: white;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+#q5{
+    background-color: whitesmoke;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+#q6{
+    background-color: violet;
+    margin-top: 10px;
+    margin-left: 205px;
+}
+#q7{
+    background-color: turquoise;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#q8{
+    background-color: tomato;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#q9{
+    background-color: thistle;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q10{
+    background-color: brown;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q11{
+    background-color: burlywood;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q12{
+    background-color: cadetblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q13{
+    background-color: chartreuse;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+#q14{
+    background-color: chartreuse;
+    margin-top: 10px;
+    margin-left: 11px;
+}
+#q15{
+    background-color: chocolate;
+    margin-left: 11px;
+    margin-top: 10px;
+}
+#q16{
+    background-color: coral;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#q17{
+    background-color: cornflowerblue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#q18{
+    background-color: cornsilk;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q19{
+    background-color: crimson;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q20{
+    background-color:cyan;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#q21{
+    background-color: darkblue;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}

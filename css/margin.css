@@ -1,0 +1,15 @@
+div{
+    height: 300px;
+    width: 30%;
+    border: solid red 2px;
+    margin-left: 200px;
+
+}
+#box1{
+    background-color: yellow;
+}
+#box2{
+    background-color: yellowgreen;
+    margin-left: 400px;
+    margin-top: 10px;
+}

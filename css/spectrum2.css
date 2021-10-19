@@ -1,0 +1,121 @@
+div{
+    border: solid ;
+    width: 10.3%;
+    height: 150px;
+    
+}
+body{
+    background-color: black;
+}
+h1{
+    margin-left: 500px;
+    margin-bottom: 10px;
+    color: white;
+}
+.q1{
+    background-color: yellow;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+.q2{
+    background-color: darkgreen;
+    margin-left: 475px;
+    margin-top: -156px;
+}
+.q3{
+    background-color: darkgrey;
+    margin-left: 620px;
+    margin-top: -156px;
+}
+.q4{
+    background-color: darkkhaki;
+    margin-left: 765px;
+    margin-top: -156px;
+}
+.q5{
+    background-color: darkmagenta;
+    margin-left: 910px;
+    margin-top: -156px;
+}
+.q6{
+    background-color: darkolivegreen;
+    margin-left: 185px;
+    margin-top: 10px;
+}
+.q7{
+    background-color: darkorange;
+    margin-top: -156px;
+    margin-left: 330px;
+}
+.q8{
+    background-color: darkorchid;
+    margin-top: -156px;
+    margin-left: 475px;
+}
+.q9{ margin-top: -156px;
+    margin-left: 620px;
+    background-color: darkred;
+
+}
+.q10{
+    margin-top: -156px;
+    margin-left: 765px;
+    background-color: darksalmon;
+}
+.q11{
+    margin-top: -156px;
+    margin-left: 910px;
+    background-color: darkseagreen;
+}
+.q12{
+    margin-top: -156px;
+    margin-left: 1055px;
+    background-color: darkslateblue;
+}
+.q13{
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: darkslategray;
+}
+.q14{
+    margin-top: -156px;
+    margin-left: 185px;
+    background-color: darkturquoise;
+}
+.q15{
+    margin-top: -156px;
+    margin-left: 330px;
+    background-color: darkviolet;
+}
+.q16{
+    margin-top: -156px;
+    margin-left: 475px;
+    background-color: deeppink;
+}
+.q17{
+    margin-top: -156px;
+    margin-left: 620px;
+    background-color: deepskyblue;
+    
+    
+}
+.q18{
+    margin-top: -156px;
+    margin-left: 765px;
+    background-color: dimgray;
+}
+.q19{
+    margin-top: -156px;
+    margin-left: 910px;
+    background-color: dodgerblue;
+}
+.q20{
+    margin-top: -156px;
+    margin-left: 1055px;
+    background-color: firebrick;
+}
+.q21{
+    margin-top: -156px;
+    margin-left: 1200px;
+    background-color: forestgreen;
+}

@@ -1,0 +1,14 @@
+.div{
+    width: ;
+    border: solid 2px black;
+    height: 150px;
+}
+.b1{
+    background-color: blanchedalmond;
+    width: 500px;
+}
+.b2{
+    background-color: brown;
+    position: sticky;
+    top: 20px;
+}
