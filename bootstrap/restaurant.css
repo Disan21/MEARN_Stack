@@ -1,5 +1,5 @@
 .navbar{
-    height: 75px;
+    height: 60px;
     background-color: rgb(70, 4, 29);
     
     
@@ -23,13 +23,20 @@
 }
 .q{
     width: 100%;
-    height: 750px;
-    background-image: url(./restaurant/ssss.jpg);
+    height: 670px;
+    background-image: url(./restaurant/e.jpg);
+    background-size: cover;
+    background-position: center;
+    
     
 }
+.u{
+    margin-right: 200px;
+}
 .q h2{
-    text-align: center;
-    padding: 250px;
+    text-align: right;
+    padding-right: 80px;
+    padding-top: 200px;
     color: wheat;
     font-size: 80px;
     margin-bottom: 40px;
@@ -59,7 +66,8 @@
     color: blanchedalmond;
     font-family: 'Dancing Script', cursive;
 }
-.card-text p{
-    text-align: right;
+
+.b{
+    margin-left: 200px;
 }
 
